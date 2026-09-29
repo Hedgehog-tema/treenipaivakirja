@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "laji": "juoksu",
+    "kesto": 45,
+    "matka": 8,
+    "syke": 145,
+    "fiilis": "hyvä",
+    "paiva": "2026-09-27",
+    "muistiinpanot": "Kevyt lenkki puistossa"
+  },
+  {
+    "id": 2,
+    "laji": "pyöräily",
+    "kesto": 90,
+    "matka": 32,
+    "syke": 130,
+    "fiilis": "helppo",
+    "paiva": "2026-09-28",
+    "muistiinpanot": ""
+  },
+  {
+    "id": 3,
+    "laji": "uinti",
+    "kesto": 60,
+    "matka": 2,
+    "syke": 120,
+    "fiilis": "hyvä",
+    "paiva": "2026-09-29",
+    "muistiinpanot": "Testiuinti"
+  },
+  {
+    "id": 4,
+    "laji": "uinti",
+    "kesto": 60,
+    "matka": 2,
+    "syke": 120,
+    "fiilis": "hyvä",
+    "paiva": "2026-09-29",
+    "muistiinpanot": "Testiuinti"
+  }
+]
